@@ -296,3 +296,4 @@
 
   <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/denvercoder1" alt="@denvercoder1&#39;s Holopin board"></a></p>
 </details>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=800&duration=3000&pause=1008&color=14CD43&width=435&lines=Hello+world!+Welcome+to+my+Github+Let's+learn+togheter;Welcome+to+my+GitHub)](https://git.io/typing-svg)
